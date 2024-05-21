@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: web-go
-        image: kimhj4270/app1:b50f628
+        image: kimhj4270/app1:bbe9a9b
         imagePullPolicy: Always
         ports:
         - containerPort: 8080
